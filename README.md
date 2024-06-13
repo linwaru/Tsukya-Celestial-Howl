@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="imagem.png" alt="Tsukya: Celestial Howl">
+  <img src="image.png" alt="Tsukya: Celestial Howl" width="200">
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ## Features
 
-- **Immersive Storytelling:** Uncover the mysteries shrouding **Tsukya** tragic past as you journey through forsaken citys, villages, ominous forests, and desolate ruins.
+- **Immersive Storytelling:** Uncover the mysteries shrouding **Tsukya** tragic past as you journey through forsaken cities, villages, ominous forests, and desolate ruins.
   
 - **Intense Combat:** Engage in visceral battles against nightmarish creatures and cunning adversaries, utilizing **Tsukya** unique abilities and strategic prowess.
   
