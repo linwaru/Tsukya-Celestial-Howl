@@ -35,5 +35,15 @@ Dare to venture into the abyss and experience **Tsukya** relentless pursuit of t
 ---
 
 <p align="center">
-  Follow the development progress of Tsukya: Celestial Howl! <img src="https://i.postimg.cc/wTtK5QgY/Comfy-UI-temp-eauqj-00034.png" alt="Icon" width="40">
+  Follow the development progress of Tsukya: Celestial Howl!
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/Zqv01drG/Comfy-UI-temp-eauqj-00022.png" alt="Banner" width="400">
+</p>
+
+<p align="center">
+  <a href="discordlink"><img src="https://img.icons8.com/color/48/000000/discord.png" alt="Discord"></a>
+  <a href="twitterlink"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
+  <a href="weblink"><img src="https://img.icons8.com/?size=50&id=63807&format=png&color=000000" alt="Website"></a>
 </p>
