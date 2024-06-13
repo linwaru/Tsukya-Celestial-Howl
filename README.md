@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="image.png" alt="Tsukya: Celestial Howl" width="200">
+  <img src="https://i.postimg.cc/Zqv01drG/Comfy-UI-temp-eauqj-00022.png" alt="Tsukya: Celestial Howl" width="500">
 </p>
 
 ---
