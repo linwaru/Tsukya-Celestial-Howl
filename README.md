@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/Zqv01drG/Comfy-UI-temp-eauqj-00022.png" alt="Tsukya: Celestial Howl" width="500">
+  <img src="https://i.postimg.cc/WzZbD6Hj/Comfy-UI-temp-jomge-00006.png" alt="Tsukya: Celestial Howl" width="300">
 </p>
 
 ---
@@ -35,5 +35,5 @@ Dare to venture into the abyss and experience **Tsukya** relentless pursuit of t
 ---
 
 <p align="center">
-  <b>Follow the development progress of Tsukya: Celestial Howl!</b>
+  Follow the development progress of Tsukya: Celestial Howl! <img src="https://i.postimg.cc/wTtK5QgY/Comfy-UI-temp-eauqj-00034.png" alt="Icon" width="40">
 </p>
