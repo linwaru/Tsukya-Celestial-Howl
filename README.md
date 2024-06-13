@@ -1,10 +1,7 @@
 <h1 align="center">Tsukya: Celestial Howl</h1>
 
 <p align="center">
-  <i><span style="color:red;">Under Construction...</span></i>
-</p>
-
-<p align="center">
+  <i style="color:red;">Under Construction...</i><br>
   <b>Tsukya: Celestial Howl</b> is an indie 2D RPG game in development.
 </p>
 
